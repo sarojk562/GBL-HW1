@@ -1,3 +1,8 @@
-SAM 120
-NAP 112
-EER 39
+sar 517
+kas 241
+saro 113
+lev 221
+sam 264
+him 258
+san 163
+lik 127

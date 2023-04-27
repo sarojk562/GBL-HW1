@@ -296,8 +296,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   path: Assets/Resources/scores.txt
-  Names: []
-  Score: []
+  Names:
+  - {fileID: 1809811657}
+  - {fileID: 2019983816}
+  - {fileID: 1798068254}
+  - {fileID: 139274671}
+  - {fileID: 1779381427}
+  - {fileID: 2070833765}
+  - {fileID: 1909536505}
+  Score:
+  - {fileID: 1333559626}
+  - {fileID: 2058242898}
+  - {fileID: 1884541151}
+  - {fileID: 5354886}
+  - {fileID: 671996924}
+  - {fileID: 1081748774}
+  - {fileID: 646554619}
   submit: {fileID: 1549669630}
   UsernameInput: {fileID: 1410305904}
   game: {fileID: 2067707589}
@@ -1348,10 +1362,10 @@ MonoBehaviour:
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
-    m_HorizontalOverflow: 0
+    m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 
+  m_Text: '>'
 --- !u!222 &1150908022
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1596,7 +1610,7 @@ MonoBehaviour:
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
-    m_HorizontalOverflow: 0
+    m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: Button
@@ -1755,7 +1769,7 @@ MonoBehaviour:
     m_DisabledTrigger: Disabled
   m_Interactable: 1
   m_TargetGraphic: {fileID: 1410305907}
-  m_TextComponent: {fileID: 0}
+  m_TextComponent: {fileID: 1021817391}
   m_Placeholder: {fileID: 1473953114}
   m_ContentType: 0
   m_InputType: 0
@@ -2317,7 +2331,7 @@ MonoBehaviour:
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
-    m_HorizontalOverflow: 0
+    m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: Change Projectile
