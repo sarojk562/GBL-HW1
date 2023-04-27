@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b92384622ab9b4248b93c2d7f19faf48
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - uitLevel: {instanceID: 0}
+  - uitShots: {instanceID: 0}
+  - uitButton: {instanceID: 0}
+  - castle: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
